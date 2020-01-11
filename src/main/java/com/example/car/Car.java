@@ -25,6 +25,7 @@ public class Car
 	}
 	public String toString()
 	{
+		System.out.println("i am  toString");
 		return "id :"+ id + "Car name "+ carName +"company name:"+ company;
 	}
 
